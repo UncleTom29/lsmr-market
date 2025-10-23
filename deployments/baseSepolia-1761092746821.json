@@ -1,0 +1,21 @@
+{
+  "network": "baseSepolia",
+  "contractAddress": "0x631bd842064962E084cDc6Db0D47679e4C19982C",
+  "deployer": "0xAa090665dEF73929E1BF0dd06f3E6896beC2C699",
+  "blockNumber": 32662229,
+  "timestamp": "2025-10-22T00:25:46.816Z",
+  "parameters": {
+    "numOutcomes": 2,
+    "b0": "0.01",
+    "alpha": "0.01",
+    "initialFunding": "0.006931471805599453"
+  },
+  "initialState": {
+    "prices": [
+      "0.5",
+      "0.5"
+    ],
+    "totalVolume": "0.0",
+    "collateral": "0.006931471805599453"
+  }
+}
